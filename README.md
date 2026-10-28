@@ -3,3 +3,5 @@
 Static test site for Docker Manager PR previews. `main` is blue with a green logo; the
 `preview-test` branch turns it orange and says "preview-test", so a preview is easy to
 tell from production.
+
+Docker Manager E2E preview test 2026-10-28.
