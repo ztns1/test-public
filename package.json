@@ -1,0 +1,1 @@
+{"name":"fp1124-fail","version":"1.0.0","scripts":{"build":"echo fp1124-build-fails; exit 3","start":"node -e 0"}}
